@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prabhuprasad Panda 
-- 👀 I’m interested in ...
+- 👀 I’m interested in Python, SQl, Web Deveopment
 - 🌱 I’m currently learning Golang
 
 
